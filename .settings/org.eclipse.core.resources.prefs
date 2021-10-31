@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/admin_v1/layout/body.jsp=UTF-8
+encoding//src/ptithcm/bean/LogIn.java=UTF-8
+encoding//src/ptithcm/controller/AccountController.java=UTF-8
+encoding//src/ptithcm/controller/HomeController.java=UTF-8
+encoding//src/ptithcm/controller/ProductsController.java=UTF-8
+encoding//src/ptithcm/interceptor/LoggerInterceptor.java=UTF-8
